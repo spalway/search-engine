@@ -3,6 +3,10 @@
 
 This is a longer group project! Here are the [Project Instructions](Project_Instructions.pdf).
 
+![image](https://github.com/user-attachments/assets/c6fd28b5-3cd3-48dd-8390-c922bfe7a001)
+
+
+
 
 **Objectives:**
 
